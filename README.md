@@ -1,10 +1,10 @@
 # petstore-performance-testing using JMeter
 
-This repository contains performance reports and scripts for the site URL: https://petstore.octoperf.com. This performance testing was conducted using Apache JMeter to evaluate the system's capability to how many concurrent requests were handled and then measure its performance under different loads.
+This repository contains performance reports and scripts for the site  [PETSTORE](https://petstore.octoperf.com/actions/Catalog.action). This performance testing was conducted using Apache JMeter to evaluate the system's capability to how many concurrent requests were handled and then measure its performance under different loads.
 
 # Following tests were performed:
 
-I’ve completed performance test on frequently used API for test site [PETSTORE](https://petstore.octoperf.com). 
+I’ve completed performance test on frequently used API for test site [PETSTORE](https://petstore.octoperf.com/actions/Catalog.action). 
 
 **30 Concurrent Request with 2 Loop Count**
 
