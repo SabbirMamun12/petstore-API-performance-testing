@@ -1,4 +1,4 @@
-# petstore-performance-testing using JMeter
+# petstore-API-performance-testing using JMeter
 
 This repository contains performance reports and scripts for the site  [PETSTORE](https://petstore.octoperf.com/actions/Catalog.action). This performance testing was conducted using Apache JMeter to evaluate the system's capability to how many concurrent requests were handled and then measure its performance under different loads.
 
